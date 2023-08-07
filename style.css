@@ -15,7 +15,7 @@
 }
 .one h2:before,
 h2:after {
-    background-color: #000;
+    background-color: gray;
     content: "";
     display: inline-block;
     height: 1px;
@@ -35,7 +35,7 @@ h2:after {
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 1.5px solid black;
+    border: 1.5px solid gray;
     border-radius: .5rem;
     margin: 1rem 0;
     height: 3.5rem
@@ -55,7 +55,7 @@ h2:after {
     margin-left: 6.5rem;
 }
 .three{
-    border: 1.5px solid black;
+    border: 1.5px solid gray;
     border-radius: .5rem;
     margin: 1rem 0;
     height: 10rem;
@@ -122,11 +122,14 @@ h2:after {
     margin-left: 1.5rem;
     margin-right: .4rem;
 }
+.three .secbox{
+    margin-top: .5rem;
+}
 .four{
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 1.5px solid black;
+    border: 1.5px solid gray;
     border-radius: .5rem;
     margin: 3rem;
     margin: 1rem 0;
@@ -165,7 +168,7 @@ h2:after {
 .button button{
     padding: 1rem 8.5rem;
     color: white;
-    background-color: rgb(99, 177, 99);
+    background-color: rgb(0,130,0);;
     font-weight: bolder;
     font-size: 14px;
     cursor: pointer;

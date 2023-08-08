@@ -43,12 +43,11 @@ h2:after {
 }
 .two input{
     margin-left: 1rem;
-    margin-right: 1rem;
     cursor: pointer;
 }
 .two .pair{
     margin-left: 1rem;
-    margin-right: 3rem;
+    margin-right: 4rem;
 }
 .two .off{
     font-size: 1.1rem;
@@ -138,11 +137,10 @@ h2:after {
 .four input{
     margin-left: 1rem;
     cursor: pointer;
-    margin-right: 1rem;
 }
 .four .pair{
     margin-left: 1rem;
-    margin-right: 3rem;
+    margin-right: 4rem;
 }
 .four .off{
     font-size: 1.1rem;
